@@ -75,3 +75,9 @@ Each algorithm gives different results with different accuracy values as shown b
 ![Screenshot 2022-12-31 115624](https://user-images.githubusercontent.com/78556152/210131109-852ec52b-95f3-478f-b0b4-0db8a1d919f9.png)
 
 ![Screenshot 2022-12-31 115718](https://user-images.githubusercontent.com/78556152/210131134-d1900a07-92d6-42c5-845b-0626b6036b6c.png)
+
+#### Naive Bayes Algorithm
+
+![Screenshot 2022-12-31 120032](https://user-images.githubusercontent.com/78556152/210131197-ac55ecff-26fd-4478-b3e1-20ab4f2d60ea.png)
+
+![Screenshot 2022-12-31 120139](https://user-images.githubusercontent.com/78556152/210131220-7b002a08-4086-47b4-97a3-5a906c075b8d.png)
