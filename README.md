@@ -59,3 +59,13 @@ From the above histograms, Kurtosis is positively skewed while Entropy is negati
 All independent variables are assigned to X while the dependent variable "Target" is assigned to y.
 
 80% of the dataset is used for training and the remaining 20% for testing
+
+Several classification algorithms including Logistic Regression, Naive Bayes, KNN and Support Vector Machine are used to train the model.
+
+Each algorithm gives different results with different accuracy values as shown by classification report, accuracy report, F1 Score and Recall Score as shown below:
+
+#### Logistic Regression
+
+![Screenshot 2022-12-31 115031](https://user-images.githubusercontent.com/78556152/210130975-647dde8a-9e59-4ee7-b36c-c9a2959bfe49.png)
+
+![Screenshot 2022-12-31 115226](https://user-images.githubusercontent.com/78556152/210131009-a6a4d304-5ebf-41a4-8f22-babb555f1ace.png)
