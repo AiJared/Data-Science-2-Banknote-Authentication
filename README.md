@@ -69,3 +69,9 @@ Each algorithm gives different results with different accuracy values as shown b
 ![Screenshot 2022-12-31 115031](https://user-images.githubusercontent.com/78556152/210130975-647dde8a-9e59-4ee7-b36c-c9a2959bfe49.png)
 
 ![Screenshot 2022-12-31 115226](https://user-images.githubusercontent.com/78556152/210131009-a6a4d304-5ebf-41a4-8f22-babb555f1ace.png)
+
+#### KNN Algorithm
+
+![Screenshot 2022-12-31 115624](https://user-images.githubusercontent.com/78556152/210131109-852ec52b-95f3-478f-b0b4-0db8a1d919f9.png)
+
+![Screenshot 2022-12-31 115718](https://user-images.githubusercontent.com/78556152/210131134-d1900a07-92d6-42c5-845b-0626b6036b6c.png)
