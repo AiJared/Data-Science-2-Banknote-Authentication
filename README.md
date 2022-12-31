@@ -18,3 +18,6 @@ These features are
 . entropy of the wavelet transformed image and 
 
 . classes based on the above features
+
+
+Several algorithms including Support Vector Machine, K-Nearest Neighbors, Naive Bayes and Logistic Regression are used to train the model for this project.
