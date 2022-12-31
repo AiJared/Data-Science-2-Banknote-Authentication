@@ -98,3 +98,13 @@ Each algorithm gives different results with different accuracy values as shown b
 #### Algorithms Recall Score
 
 ![Screenshot 2022-12-31 121741](https://user-images.githubusercontent.com/78556152/210131590-f928fdd0-46f5-4727-aea3-94064b31456f.png)
+
+The best Algorithms for this project are Support Vector Machines and K-Nearest Neighbors
+
+## Conclusion
+
+Wavelet Transformation extacts useful features from banknote images that can be used to check for fake banknotes. This project focused on using those features to create a machine learning model that can detect fake banknotes.
+
+Several classification algorithms have been implemented with SVM and KNN performing well.
+
+This concludes that machine learning can be used to solve the problem of fake banknotes by creating models that can detect and differentiate them from genuine notes when given enough data which has reasonable features that it can learn and train from.
