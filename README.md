@@ -81,3 +81,9 @@ Each algorithm gives different results with different accuracy values as shown b
 ![Screenshot 2022-12-31 120032](https://user-images.githubusercontent.com/78556152/210131197-ac55ecff-26fd-4478-b3e1-20ab4f2d60ea.png)
 
 ![Screenshot 2022-12-31 120139](https://user-images.githubusercontent.com/78556152/210131220-7b002a08-4086-47b4-97a3-5a906c075b8d.png)
+
+#### Support Vector Machine Algorithm
+
+![Screenshot 2022-12-31 120421](https://user-images.githubusercontent.com/78556152/210131277-a292e337-82aa-4c44-a808-0a893b0f5181.png)
+
+![Screenshot 2022-12-31 120509](https://user-images.githubusercontent.com/78556152/210131300-3ccc38bb-9a87-400f-9b26-4b514a1f08cd.png)
