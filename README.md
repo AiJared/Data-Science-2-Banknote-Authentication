@@ -21,3 +21,7 @@ These features are
 
 
 Several algorithms including Support Vector Machine, K-Nearest Neighbors, Naive Bayes and Logistic Regression are used to train the model for this project.
+
+## Data
+
+The data used for this project is "BankNoteAuthentication.csv" from kaggle.
