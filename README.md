@@ -47,3 +47,9 @@ There are 24 duplicated values.
 From the dataset, there are 762 genuine notes and 610 fake notes as shown below:
 
 ![Screenshot 2022-12-31 113030](https://user-images.githubusercontent.com/78556152/210130545-39e65cf6-caa0-4cab-881c-c4901bd6a24e.png)
+
+## Data Visualization
+
+![Screenshot 2022-12-31 113901](https://user-images.githubusercontent.com/78556152/210130723-efbdf2d1-c6c4-456c-be50-fb19a892c293.png)
+
+From the above histograms, Kurtosis is positively skewed while Entropy is negatively skewed. Variance is multimodal, target is bimodal while skewness is random.
