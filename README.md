@@ -94,3 +94,7 @@ Each algorithm gives different results with different accuracy values as shown b
 #### Algorithms F1 Score
 
 ![Screenshot 2022-12-31 121531](https://user-images.githubusercontent.com/78556152/210131557-cd95b7d3-6ba6-4d86-9be3-d35f93d532da.png)
+
+#### Algorithms Recall Score
+
+![Screenshot 2022-12-31 121741](https://user-images.githubusercontent.com/78556152/210131590-f928fdd0-46f5-4727-aea3-94064b31456f.png)
